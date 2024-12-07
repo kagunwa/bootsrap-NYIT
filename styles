@@ -1,0 +1,23 @@
+.my button {
+    background-color: beige;
+}
+.col{
+    --D-primary-main: #100404;
+    --D-primary-main: #210A07;
+    --D-primary-main: #81270F;
+    --D-font-family: sans-serif;
+
+}
+.roboto-regular {
+    font-family: "Roboto", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+.my-button {
+    background-color: var(--D-primary-main)
+}  
+p {
+    font-family: var(--D-font);
+    color: var(--D-text);
+    
+}
